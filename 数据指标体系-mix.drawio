@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T11:27:59.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="92UDpTwVOU0efvQboOcG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T11:19:18.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="K790FLUe-9hidQTQVU9q" version="20.5.3" type="github">
   <diagram id="Rz6UT0VjQpFJXZLJUA3M" name="第 1 页">
-    <mxGraphModel dx="1375" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1618" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,6 +167,12 @@
         </mxCell>
         <mxCell id="aIiReyNt7j9mCZiXyGev-29" value="贝叶斯算法" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fF5NzXTnS6Jj57u0z-y-1" value="归因付费用户分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fF5NzXTnS6Jj57u0z-y-2" value="归因付费用户分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2930" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
